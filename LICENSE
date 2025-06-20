@@ -2,7 +2,10 @@ Copyright © 2025 [Casian Benga]
 
 This software binary, "koleos_DPF_alert.bin", is proprietary and confidential.
 
-You may not modify, reverse engineer, decompile, disassemble, copy, distribute, sublicense, or otherwise use this software except with explicit written permission from the copyright holder.
+You may not modify, reverse engineer, decompile, disassemble, copy, distribute, sublicense, or otherwise use this software **except as expressly permitted below or with written permission from the copyright holder.**
+
+Permitted Use:
+You are allowed to **download and flash the binary "koleos_DPF_alert.bin" to your personal ESP32 device** for its intended purpose. No other use, including commercial exploitation, redistribution, or modification, is permitted without prior written consent.
 
 COMMERCIAL USE IS STRICTLY PROHIBITED.
 
