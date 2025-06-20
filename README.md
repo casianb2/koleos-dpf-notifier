@@ -11,3 +11,5 @@ See [LICENSE](./LICENSE) for more details.
 ## 🔗 Third-Party Acknowledgments
 
 This project integrates the [NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino) library, licensed under the Apache License 2.0. See [NOTICE](./NOTICE) for attribution and license terms.
+
+Guide how to flash binary file to the ESP32: ![Guide screenshot](assets/flashing-guide.png)
