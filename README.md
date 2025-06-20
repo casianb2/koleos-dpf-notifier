@@ -22,7 +22,7 @@
 
 
 # Apps for the donle:
-- Since the esp32 has bluetooth capabilities, I also developed some apps for the dongle. (TODO add more info, pictures, yt video links, etc)
+- Since the esp32 has bluetooth capabilities, I've also developed some apps for the dongle. (TODO add more info, pictures, yt video links, etc)
 
 
 
